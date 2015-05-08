@@ -5,12 +5,12 @@ ServiceNow Unit Testing util for server side scripts
 
 ### Key Classes
 
-1. SNUnit
-2. Assertions
-3. SNValidator
-4. InvalidArgumentException
-5. InvalidSysIDException
-6. RecordNotFoundException
+1. [SNUnit](#snunit)
+2. [Assertions](https://github.com/jmbauguess/UnitTestNOW/tree/master#assertions)
+3. [SNValidator](https://github.com/jmbauguess/UnitTestNOW/tree/master#snvalidator)
+4. [InvalidArgumentException](https://github.com/jmbauguess/UnitTestNOW/tree/master#invalidargumentexception)
+5. [InvalidSysIDException](https://github.com/jmbauguess/UnitTestNOW/tree/master#invalidsysidexception)
+6. [RecordNotFoundException](https://github.com/jmbauguess/UnitTestNOW/tree/master#recordnotfoundexception)
 
 ### SNUnit
 
