@@ -1,6 +1,12 @@
 # UnitTestNOW
 ServiceNow Unit Testing util for server side scripts
 
+Read [this](https://baugs.wordpress.com/2015/05/08/building-some-servicenow-developer-utilities-part-2/) for a usage explanation.
+
+![alt-text](https://baugs.files.wordpress.com/2015/05/test_example1.png "Example usage")
+
+![alt-text](https://baugs.files.wordpress.com/2015/05/test_results_example.png "Example output")
+
 ## UnitTestNOW Documentation
 
 ### Key Classes
